@@ -1,6 +1,6 @@
 {
   "name": "promise-unified",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add a unified operation for Promise(为Promise添加一个统一的操作方法)",
   "main": "index.js",
   "scripts": {
