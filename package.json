@@ -1,0 +1,33 @@
+{
+  "name": "promise-unified",
+  "version": "1.0.0",
+  "description": "Add a unified operation for Promise(为Promise添加一个统一的操作方法)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BlackHole1/promise-unified.git"
+  },
+  "keywords": [
+    "promise",
+    "unified",
+    "promise unified"
+  ],
+  "author": "Black-Hole <158blackhole@gmail.com> (http://bugs.cc/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackHole1/promise-unified/issues"
+  },
+  "homepage": "https://github.com/BlackHole1/promise-unified#readme",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "mocha": "^4.1.0"
+  }
+}
