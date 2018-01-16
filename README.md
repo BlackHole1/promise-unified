@@ -1,6 +1,6 @@
 # Promise-unified [![npm](https://img.shields.io/npm/dy/promise-unified.svg)](https://www.npmjs.com/package/promise-unified) [![npm](https://img.shields.io/github/issues/BlackHole1/promise-unified.svg)](https://github.com/BlackHole1/all-equal) [![npm](https://img.shields.io/github/forks/BlackHole1/promise-unified.svg)](https://github.com/BlackHole1/all-equal) [![npm](https://img.shields.io/github/stars/BlackHole1/promise-unified.svg)](https://github.com/BlackHole1/all-equal) [![npm](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BlackHole1/all-equal)
 
-[中文说明](https://github.com/BlackHole1/promise-unified/README-zh.md)
+[中文说明](https://github.com/BlackHole1/promise-unified/blob/master/README-zh.md)
 
 > Add a unified operation for Promise
 
