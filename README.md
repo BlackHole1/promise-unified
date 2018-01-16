@@ -64,7 +64,7 @@ promise.then(
 
 | **Commits** | **Contributor** | 
 | --- | --- |
-| 1 | [Black-Hole](https://github.com/BlackHole1) |
+| 4 | [Black-Hole](https://github.com/BlackHole1) |
 
 ## Author
 

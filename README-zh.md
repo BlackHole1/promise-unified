@@ -64,7 +64,7 @@ promise.then(
 
 | **提交次数** | **贡献者** | 
 | --- | --- |
-| 1 | [Black-Hole](https://github.com/BlackHole1) |
+| 4 | [Black-Hole](https://github.com/BlackHole1) |
 
 ## 作者
 
