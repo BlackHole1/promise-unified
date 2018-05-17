@@ -1,5 +1,6 @@
 const unified = () => {
   const self = typeof window === 'undefined' ? global : window
+  /* istanbul ignore next */
   if (!self.Promise) {
     return new Error('Your current environment does not support Promise')
   }
